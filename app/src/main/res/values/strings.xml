@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UsersLine</string>
+
+    <!-- activity_users -->
+    <string name="users_title">Контакты</string>
+
+    <!-- activity_detail -->
+    <string name="detail_title">Контакт</string>
+    <string name="detail_nick_name">Никнейм</string>
+</resources>
